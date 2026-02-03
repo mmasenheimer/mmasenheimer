@@ -1,8 +1,5 @@
 - 👋 Hi there, I’m Michael Masenheimer!
-
-- 👀 I’m interested in hiking, collecting vinyl records, swimming, and video games!
 - 📫 How to reach me mmasenheimer21@gmail.com or mmasenheimer21 on instagram
-- 😄 Pronouns: he/him
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mmasenheimer)
