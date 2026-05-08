@@ -1,5 +1,5 @@
 - 👋 Hi there, I’m Michael Masenheimer!
-- 📫 How to reach me mmasenheimer21@gmail.com or mmasenheimer21 on instagram
+- 📫 How to reach me: mmasenheimer21@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mmasenheimer)
